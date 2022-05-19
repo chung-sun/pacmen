@@ -8,7 +8,7 @@
 </p>
 <br>
 <h2>
-  Description: This project creates PacMan when the user clicks the Add button. Once satisfied with the PacMan creation, the user clicks the Start button and let the PacMan loose. Everytime the PacMan hits the right wall, they will change to light green color.
+  Description: This project creates PacMan when the user clicks the Add button. Once satisfied with the PacMan creation, the user clicks the Start button and let the PacMan loose. Every time the PacMan hits the right wall, they will change to light green color.
 
 </h2>
 
@@ -16,7 +16,7 @@
   How to run: In order to run this project, you either Clone it or download the zip file to your local directory. Run the code and enjoy.
 </h2>
 <h2>
-  Road Map: This project will be the base and expand to include different cities like New York, Chicago, Los Angeles, and Miami. Future releases will include custom bus images, more accurate travelling direction, highlight travel route, maybe arrival time to next station and so on.
+  Road Map: Future changes will include sound effects, such as when pacman bounces off the wall and during movements of the mouth.
 
 </h2>
 
