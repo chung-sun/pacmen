@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./images/pacmen-pixels1.jpg);
+}
+
+#game {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.disable {
+  cursor: not-allowed;
+}
